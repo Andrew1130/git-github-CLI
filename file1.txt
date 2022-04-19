@@ -1,1 +1,2 @@
 hello git
+CLI를 사용하여 내용 추가
